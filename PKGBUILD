@@ -1,6 +1,6 @@
 # Maintainer: Leonid Maksymchuk <leonmaxx@gmail.com>
 pkgname=asus_fanmode
-pkgver=0.2.0
+pkgver=0.3.0
 pkgrel=1
 pkgdesc="Daemon that controls Fan Boost Mode on ASUS TUF laptops"
 arch=('x86_64')
